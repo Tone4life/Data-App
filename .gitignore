@@ -1,1 +1,6 @@
 node_modules/electron/dist/electron.exe
+.env
+node_modules/
+.env
+
+out/
